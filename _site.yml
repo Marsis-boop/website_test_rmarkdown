@@ -1,0 +1,7 @@
+name: "Marlen"
+output_dir: "."
+navbar:
+  title: "Mar shenanigans"
+  left:
+    - text: "Home"
+      href: index.html
